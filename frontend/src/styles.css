@@ -1,0 +1,5 @@
+/* Minimal styles; you can replace with Tailwind later */
+body { font-family: Arial, sans-serif; margin:0; padding:0; }
+a { color: blue; text-decoration: none; margin-right: 8px; }
+input { padding:8px; margin:8px 0; display:block; width:300px; }
+button { padding:8px 12px; margin-top:8px; }
